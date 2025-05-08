@@ -64,15 +64,6 @@ This project uses **R** to explore and analyze a real-world health insurance dat
 
 ---
 
-## Repository Contents
-
-| File | Description |
-|------|-------------|
-| `Health_Insurance_Analysis.R` | Full R code for analysis |
-| `R_Report_Chandana.pdf` | Detailed academic report with interpretations |
-| `images/` | Optional visuals (e.g., boxplots, residual plots) |
-
----
 
 ## Technologies Used
 
