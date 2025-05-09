@@ -1,4 +1,4 @@
-# Health-Insurance-Cost-Analysis-using-R
+# Health Insurance Cost Analysis using R
 
 A deep statistical exploration of how age, BMI, smoking habits, and geography affect insurance costs in the US.
 
