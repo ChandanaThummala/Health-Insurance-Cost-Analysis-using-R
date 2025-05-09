@@ -1,0 +1,10 @@
+## Requirements
+
+- R version 4.0.2 or higher
+- Packages:
+  - ggplot2
+  - dplyr
+  - car
+  - patchwork
+  - stats
+  - datasets
